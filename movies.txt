@@ -1,0 +1,5 @@
+M1, Avatar, 50
+M2, Titanic, 50
+M3, StarWar, 50
+M4, BlackPanther, 50
+M5, Superman, 50
